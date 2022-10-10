@@ -3,7 +3,7 @@
 
 <head>
   <title>
-    Data Siswa
+    Data-data Siswa
   </title>
 
 </head>
