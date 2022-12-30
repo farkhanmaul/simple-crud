@@ -1,6 +1,6 @@
 # 📚 Simple CRUD
 
-This repository contains the programming code of a very simple **CRUD*** project.
+This repository contains the programming code of a very simple **CRUD** project.
 
 ## ⚙️Tech Stack
 
